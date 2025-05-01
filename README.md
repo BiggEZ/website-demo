@@ -1,9 +1,3 @@
-<style>
-* {
-  box-sizing: border-box;
-}
-</style>
-
 
 <!-- ANCHOR FOR NAVIGATING BACK TO TOP -->
 <a id="readme-top"></a>
@@ -63,16 +57,16 @@ Key goals:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-<div class="row">
-  <div style="float: left; width: 33.33%; padding: 10px;">
+<div>
+  <div style="float: left; width: 33.33%; padding: 10px; box-sizing: border-box;">
     <h2>Front End</h2>
         <p><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a></p>
   </div>
-  <div style="float: left; width: 33.33%; padding: 10px;">
+  <div style="float: left; width: 33.33%; padding: 10px; box-sizing: border-box;">
     <h2>API</h2>
         <p><a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php" alt="Php"></a></p>
   </div>
-  <div style="float: left; width: 33.33%; padding: 10px;">
+  <div style="float: left; width: 33.33%; padding: 10px; box-sizing: border-box;">
     <h2>Back End</h2>
         <p><a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=nodedotjs" alt="Node"></a></p>
   </div>
